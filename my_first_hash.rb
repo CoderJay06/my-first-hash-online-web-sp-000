@@ -1,5 +1,5 @@
 def my_hash
-  boxer_records = {"Miguel Cotto" => 40-5, "Andre Ward" => 
+  boxer_records = {"Miguel Cotto" => 40-5, "Andre Ward" => 32-0, "Roy Jones Jr." => 
 
   
 end
